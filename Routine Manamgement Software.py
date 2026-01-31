@@ -1,5 +1,5 @@
-#Create a Routine Management Software for individulas to help them with their routine
-#This Software currently takes 7 routines and 7 alarms for each consecutively
+#Create a Fun Routine Management Software for individulas to help them with their routine
+#This Software currently takes 7 routines and 7 alarms where the alarms are meme sound effects for each consecutively
 #The User input their routine and time period and each alarm rings on that time peroid until User input Enter to stop it
 #The Modules used are datetime,time,schedule,pygame
 import datetime
@@ -119,4 +119,5 @@ print("                                     ⏰ Routine Time Running            
 
 while True:
     schedule.run_pending()#Checks the Users System Clock to play the music
+
     time.sleep(1)
