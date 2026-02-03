@@ -143,6 +143,6 @@ Make sure you are running the program from the correct directory.
 
 Aeshan Chowdhury
 
-GitHub: https://github.com/Immortal-code-creator
+### GitHub: https://github.com/Immortal-code-creator
 ```bash
 pip install schedule pygame
