@@ -107,7 +107,7 @@ Ensure the following audio files are available in the same directory as the Pyth
 
 Clone the repository:
 
-### git clone https://github.com/your-username/routine-management-software.git
+### git clone https://github.com/Immortal-code-creator/routine-management-software.git
 
 
 Navigate to the project directory.
